@@ -2,7 +2,7 @@
 
 A band consisting of Linux and Automation Engineers, they overclock their Amps and have to put silicon thermal paste on their strings.
 
-They have described as the Spinal Tap of DevOps but this is vigorously disputed by the band.
+They have been described as the Spinal Tap of DevOps but this is vigorously disputed by the band.
 
 > " They were a bunch of comedians pretending to be a band, we are deadly serious about this!!! "
 
