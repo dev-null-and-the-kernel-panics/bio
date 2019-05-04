@@ -8,6 +8,6 @@ They despise the genre of DevOps, claiming it is fake and it sold out to the man
 
 Although in their day jobs, they use the latest tech, they only play songs from before the Unix Epoch on the 1 of January 1970.
 
-Thier sound is that of 70's garage punk, mixed with disco, soul and Motown.
+Thier sound is that of 70's garage punk, mixed with soul and Motown.
 
 
