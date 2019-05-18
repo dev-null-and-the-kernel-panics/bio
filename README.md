@@ -4,7 +4,7 @@ A band consisting of Linux and Automation Engineers, they overclock their Amps a
 
 They have been described as the Spinal Tap of IT but this is strongly disputed by the band.
 
-They have a unbalanced outlook on the world, confusing tech trends genres of music.
+They have a unbalanced outlook on the world, confusing tech trends with genres of music.
 
 They dismiss the sub culture of DevOps, claiming it is fake and has sold out to the man.
 
