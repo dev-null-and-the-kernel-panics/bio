@@ -4,10 +4,11 @@ A band consisting of Linux and Automation Engineers, they overclock their Amps a
 
 They have been described as the Spinal Tap of IT but this is strongly disputed by the band.
 
-They dismiss the genre of DevOps, claiming it is fake and it sold out to the man.
+They have a unbalanced outlook on the world, confusing tech trends genres of music.
 
-Although in their day jobs, they use the latest tech, they only play songs from before the Unix Epoch on the 1 of January 1970.
+They dismiss the sub culture of DevOps, claiming it is fake and has sold out to the man.
 
-Thier sound is that of 70's garage punk, mixed with soul and Motown.
+Although in their day jobs, they use the latest tech, they only play songs that were written before the Unix Epoch on the 1 of January 1970.
 
+Their sound is that of 70's Garage Rock, mixed with Soul and Motown.
 
