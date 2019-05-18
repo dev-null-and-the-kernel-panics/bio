@@ -6,7 +6,7 @@ They have been described as the Spinal Tap of IT but this is strongly disputed b
 
 They have a unbalanced outlook on the world, confusing tech trends with genres of music.
 
-They dismiss the sub culture of DevOps, claiming it is fake and has sold out to the man.
+They dismiss the sub culture of DevOps, claiming it is fake and of selling out to the man.
 
 Although in their day jobs, they use the latest tech, they only play songs that were written before the Unix Epoch on the 1 of January 1970.
 
