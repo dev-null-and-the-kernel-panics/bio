@@ -1,6 +1,6 @@
 # bio
 
-A band consisting of Linux and Robtics Engineers, an IT Mangler and a rocket scientist, they overclock their Amps and play so fast they have to put silicon thermal paste on their strings.
+A band consisting of Linux and Robtics Engineers, an IT Mangler and a Rocket Scientist, they overclock their Amps and play so fast they have to put silicon thermal paste on their strings.
 
 They have been described as the Spinal Tap of IT but this is strongly disputed by the band. They have a unbalanced outlook on the world, confusing tech trends with genres of music. They dismiss the sub culture of DevOps, claiming it is fake and of selling out to the man.
 
